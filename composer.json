@@ -34,12 +34,12 @@
     "php": ">=7.4",
     "ext-json": "*",
     "ext-curl": "*",
-    "composer/installers": "^2.1",
+    "composer/installers": "^2.2",
     "vlucas/phpdotenv": "^5.4",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
     "roots/bedrock-disallow-indexing": "^2.0",
-    "roots/wordpress": "6.0",
+    "roots/wordpress": "6.0.2",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "kviron/advanced-custom-fields": "*",
@@ -47,7 +47,7 @@
     "wpackagist-plugin/cyr2lat":"*"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.6.2",
+    "squizlabs/php_codesniffer": "^3.7.1",
     "roave/security-advisories": "dev-latest",
     "symfony/var-dumper": "^v5.3.10",
     "wpackagist-plugin/debug-bar":"*",
