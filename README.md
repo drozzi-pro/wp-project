@@ -66,7 +66,7 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 
 1. Create a new project:
    ```sh
-   $ composer create-project roots/bedrock
+   $ composer create-project drozzi-pro/wp-project
    ```
    By default, this installs the `dist` version of all dependent packages.  To install the `source` versions instead, update `composer.json` as follows:
    ```json
